@@ -28,4 +28,25 @@ My responsibilities included:
 * Preparing icons and visual assets for the pages
 * Designing a simple project logo in Figma (globe concept with programming languages and development tools)
 
-This project helped me understand the fundamentals of frontend development, team collaboration, Git workflows, and UI planning.
+## Screenshots
+
+### Home page
+![Home page](screenshots/index-page.jpg)
+
+### Developer tools page
+![Developer tools page](screenshots/d-tools.jpg)
+
+### Developer tools page: mobile version
+![Responsive design](screenshots/responsive-d-tools.jpg)
+
+### Login page
+![Login page](screenshots/login.jpg)
+
+### Signup page
+![Signup page](screenshots/signup.jpg)
+
+## LOGO
+![Logo image](images/logo-footer.png)
+
+## Notes
+Since this was the first team project, the main focus was on learning collaboration and development fundamentals rather than production-level architecture.
